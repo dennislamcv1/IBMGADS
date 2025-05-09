@@ -1,5 +1,5 @@
 # IBMGADS
-## Generative AI for Data Scientists Specialization
+## Generative AI for Data Scientists Specialization (3 course series)
 
 Generative AI knowledge is now an essential data science skill. According to Gartner, "By 2026, 20% of top data science teams will have rebranded as Cognitive Science or Science consultancies, increasing diversity in staff skills by 800%."
 
